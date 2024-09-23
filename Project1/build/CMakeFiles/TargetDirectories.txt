@@ -1,0 +1,4 @@
+/Users/sundri/Desktop/CS5330/Project/Project1/build/CMakeFiles/imgDisplay.dir
+/Users/sundri/Desktop/CS5330/Project/Project1/build/CMakeFiles/vidDisplay.dir
+/Users/sundri/Desktop/CS5330/Project/Project1/build/CMakeFiles/edit_cache.dir
+/Users/sundri/Desktop/CS5330/Project/Project1/build/CMakeFiles/rebuild_cache.dir
